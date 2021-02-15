@@ -1,5 +1,5 @@
 # bikesharing
-[link to dashboard](https://public.tableau.com/profile/alex7396#!/vizhome/Book1_16129065223300/Sheet13?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/alex7396#!/vizhome/Book1_16129065223300/GBStory?publish=yes)
 ## Overview
 We need to convince investors that a bike-sharing program in Des Moines is a solid business proposal. In order to solidify the proposal, I would like to present a bike trip analysis for our potential investors. With the visualizations I created in Tableau I will be able to make our potential investors realize how profitable our bike sharing service might be. 
 
